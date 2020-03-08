@@ -23,7 +23,7 @@ all data store in ~/srv/mongodb/replicaset
 ### Deploy a Sharded Cluster
 
 ```
-bash replica-set.sh
+bash sharded-cluster.sh
 ```
 
 config ports 30000~30002
